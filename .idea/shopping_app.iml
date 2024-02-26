@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/node_modules/expo-firebase-remote-config/node_modules/expo-core/build" />
+      <excludeFolder url="file://$MODULE_DIR$/node_modules/expo-firebase-remote-config/node_modules/expo-core/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/node_modules/expo-firebase-remote-config/node_modules/expo-core/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/node_modules/expo-firebase-links/node_modules/expo-core/build" />
+      <excludeFolder url="file://$MODULE_DIR$/node_modules/expo-firebase-links/node_modules/expo-core/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/node_modules/expo-firebase-links/node_modules/expo-core/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/node_modules/expo-firebase-messaging/node_modules/expo-core/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/node_modules/expo-firebase-messaging/node_modules/expo-core/build" />
+      <excludeFolder url="file://$MODULE_DIR$/node_modules/expo-firebase-messaging/node_modules/expo-core/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/node_modules/expo-firebase-invites/node_modules/expo-core/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/node_modules/expo-firebase-invites/node_modules/expo-core/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/node_modules/expo-firebase-invites/node_modules/expo-core/build" />
+      <excludeFolder url="file://$MODULE_DIR$/node_modules/expo-permissions-interface/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/node_modules/expo-permissions-interface/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/node_modules/expo-permissions-interface/build" />
+      <excludeFolder url="file://$MODULE_DIR$/node_modules/expo-firebase-database/node_modules/expo-core/build" />
+      <excludeFolder url="file://$MODULE_DIR$/node_modules/expo-firebase-database/node_modules/expo-core/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/node_modules/expo-firebase-database/node_modules/expo-core/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/node_modules/expo-permissions-interface/node_modules/expo-core/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/node_modules/expo-permissions-interface/node_modules/expo-core/build" />
+      <excludeFolder url="file://$MODULE_DIR$/node_modules/expo-permissions-interface/node_modules/expo-core/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/node_modules/expo-firebase-instance-id/node_modules/expo-core/build" />
+      <excludeFolder url="file://$MODULE_DIR$/node_modules/expo-firebase-instance-id/node_modules/expo-core/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/node_modules/expo-firebase-instance-id/node_modules/expo-core/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/node_modules/expo-firebase-functions/node_modules/expo-core/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/node_modules/expo-firebase-functions/node_modules/expo-core/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/node_modules/expo-firebase-functions/node_modules/expo-core/build" />
+      <excludeFolder url="file://$MODULE_DIR$/node_modules/expo-firebase-app/node_modules/expo-core/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/node_modules/expo-firebase-app/node_modules/expo-core/build" />
+      <excludeFolder url="file://$MODULE_DIR$/node_modules/expo-firebase-app/node_modules/expo-core/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/node_modules/expo-image-loader-interface/node_modules/expo-core/build" />
+      <excludeFolder url="file://$MODULE_DIR$/node_modules/expo-image-loader-interface/node_modules/expo-core/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/node_modules/expo-image-loader-interface/node_modules/expo-core/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/node_modules/expo-firebase-auth/node_modules/expo-core/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/node_modules/expo-firebase-auth/node_modules/expo-core/build" />
+      <excludeFolder url="file://$MODULE_DIR$/node_modules/expo-firebase-auth/node_modules/expo-core/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/node_modules/expo-firebase-firestore/node_modules/expo-core/build" />
+      <excludeFolder url="file://$MODULE_DIR$/node_modules/expo-firebase-firestore/node_modules/expo-core/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/node_modules/expo-firebase-firestore/node_modules/expo-core/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/node_modules/expo-firebase-crashlytics/node_modules/expo-core/build" />
+      <excludeFolder url="file://$MODULE_DIR$/node_modules/expo-firebase-crashlytics/node_modules/expo-core/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/node_modules/expo-firebase-crashlytics/node_modules/expo-core/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/node_modules/expo-font-interface/node_modules/expo-core/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/node_modules/expo-font-interface/node_modules/expo-core/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/node_modules/expo-font-interface/node_modules/expo-core/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
